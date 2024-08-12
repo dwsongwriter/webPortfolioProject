@@ -1,0 +1,82 @@
+/**************************************************************
+COLOR PALLET
+Dark Green: #004e42;
+Light Green: #7a9a01;
+Gold: #ffcd00;
+Dark Grey: #222222;
+Off-White: #f6f6f6;
+**************************************************************/
+
+/* GLOBAL STYLES *********************************************/
+
+body {
+    background-color: #f6f6f6;
+}
+
+/* links */
+a {
+    color: #ffcd00;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #004e42;
+    text-decoration: underline;
+}
+
+footer a {
+    color: #f6f6f6;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #ffcd00;
+    text-decoration: underline;
+}
+
+.btn {
+    background: #004e42;
+    color: #f6f6f6;
+    text-decoration: none;
+}
+
+/***************************************** END GLOBAL STYLES */
+
+/* HOME STYLES *********************************************/
+.home {
+    background: url(../images/bg-home-office-studio.jpg) no-repeat; /* Test after adding */
+    background-size: cover;
+}
+
+.home .content-wrapper {
+    background: rgb(255 255 255 / 0.9);
+}
+/***************************************** END HOME STYLES */
+
+/* RESUME STYLES *********************************************/
+
+    /******* Profile *****************************************/
+
+    /***************************************** End Profile  **/
+
+    /******* Projects *****************************************/
+
+    /***************************************** End Projects  **/
+
+    /******* Work Experience **********************************/
+
+    /********************************** End Work Experience  **/
+
+    /******* Education ****************************************/
+
+    /***************************************** End Education  */
+
+/***************************************** END RESUME STYLES */
+
+/* FOOTER STYLES *********************************************/
+footer {
+    background: #222;
+    color: #7a9a01;
+}
+/***************************************** END FOOTER STYLES */
+
